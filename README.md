@@ -7,7 +7,7 @@ I used `py2exe` to create a standalone executable to distribute to others.
 
 ##Screenshots
 
-![Homepage](https://raw.githubusercontent.com/alexkenan/CoOp-Database/master/screenshots/1.png?raw=true)
+![Homepage](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/7.png?raw=true)
 
 This is the database homepage. It has some directions (more are in an attached doc file) and the user interacts with the database via the toolbar at the top. 
 
