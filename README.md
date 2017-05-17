@@ -7,11 +7,11 @@ I used `py2exe` to create a standalone executable to distribute to others.
 
 ## Screenshots
 
-<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/7.png?raw=true">
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/7.png?raw=true" width="603" height="507" border="1" style="border:5px solid black">
 
 This is the database homepage. It has some directions (more are in an attached doc file) and the user interacts with the database via the toolbar at the top. 
 
-![Add a CoOp](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/2.png?raw=true)
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/2.png?raw=true" width="603" height="507" style="border:5px solid black">
 
 This is the page to add a CoOp to the database. The fields that contain text have been auto-filled by the program. The `Example` and `Help` buttons assist the user with correct formatting and syntax. There are similar pages for Find, Edit, and Delete.
 
