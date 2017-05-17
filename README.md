@@ -5,9 +5,9 @@ The database enables a user to add/edit/delete coops, view coop trends by major,
 
 I used `py2exe` to create a standalone executable to distribute to others.
 
-##Screenshots
+## Screenshots
 
-![Homepage](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/7.png?raw=true)
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/7.png?raw=true">
 
 This is the database homepage. It has some directions (more are in an attached doc file) and the user interacts with the database via the toolbar at the top. 
 
