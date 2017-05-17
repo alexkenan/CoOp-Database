@@ -20,21 +20,21 @@ This is the page to add a CoOp to the database. The fields that contain text hav
 
 This is one of the sorting pages, and shows the results of hitting the `Submit` button and hitting the `Submit - Verbose` button. The `Submit` button shows the name, department, and department description while the `Verbose` submit button shows name, major, college, rotation, recruitment method, station, manager, director, salary, and date the entry was inputted. Names have been removed.
 
-<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/4.png?raw=true">
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/4.png?raw=true" style="border:5px solid black">
 
 This shows some export options for the database. `Export database` will export the entire database to a txt or xls file, `Export Semester CoOps` will export a specified semester's CoOps, and `Export Active CoOps` figures out which coops have completed 1-3 rotations and exports their data.
 
-<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/5.png?raw=true" width="603" height="507" style="border:5px solid black">
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/5.png?raw=true" style="border:5px solid black">
 
 Some options for managers - the most important was the six semester projection which shows which departments still needed to find coops for which upcoming semesters.
 
-<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/6.png?raw=true" width="603" height="507" style="border:5px solid black">
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/6.png?raw=true" style="border:5px solid black">
 
 Database dynamically detects when a new semester has started and tries to add the last one to the list of past semesters to re-figure out which coops are active.
 
 
-##Ideas for Improvement
+## Ideas for Improvement
 My next round of improvements would be to eliminate the need for `Coop.xlsx` and `semesters.txt` by bundling them all into `coop.SQL` as other SQL tables.
 
-##Known Issues
+## Known Issues
 I tried to write an auto-backup feature into the program, but experienced a mysterious `WindowsError` that I could not troubleshoot.
