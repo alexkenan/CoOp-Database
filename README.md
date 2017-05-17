@@ -16,19 +16,19 @@ This is the database homepage. It has some directions (more are in an attached d
 This is the page to add a CoOp to the database. The fields that contain text have been auto-filled by the program. The `Example` and `Help` buttons assist the user with correct formatting and syntax. There are similar pages for Find, Edit, and Delete.
 
 
-![Major](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/3.png?raw=true)
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/3.png?raw=true" width="603" height="507" style="border:5px solid black">
 
 This is one of the sorting pages, and shows the results of hitting the `Submit` button and hitting the `Submit - Verbose` button. The `Submit` button shows the name, department, and department description while the `Verbose` submit button shows name, major, college, rotation, recruitment method, station, manager, director, salary, and date the entry was inputted. Names have been removed.
 
-![Export](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/4.png?raw=true)
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/4.png?raw=true">
 
 This shows some export options for the database. `Export database` will export the entire database to a txt or xls file, `Export Semester CoOps` will export a specified semester's CoOps, and `Export Active CoOps` figures out which coops have completed 1-3 rotations and exports their data.
 
-![Manager](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/5.png?raw=true)
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/5.png?raw=true" width="603" height="507" style="border:5px solid black">
 
 Some options for managers - the most important was the six semester projection which shows which departments still needed to find coops for which upcoming semesters.
 
-![Smart](https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/6.png?raw=true)
+<img src="https://github.com/alexkenan/CoOp-Database/blob/master/screenshots/6.png?raw=true" width="603" height="507" style="border:5px solid black">
 
 Database dynamically detects when a new semester has started and tries to add the last one to the list of past semesters to re-figure out which coops are active.
 
